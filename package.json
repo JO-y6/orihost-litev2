@@ -1,0 +1,11 @@
+{
+  "name": "orihost-lite",
+  "version": "1.0.0",
+  "description": "Lightweight Orihost keep-alive script",
+  "main": "keep_alive.js",
+  "scripts": {
+    "start": "node keep_alive.js"
+  },
+  "author": "assistant",
+  "license": "MIT"
+}
